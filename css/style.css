@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.my-px{
+    padding-left: 300px;
+    padding-right: 300px;
+    line-height: 2;
+}
