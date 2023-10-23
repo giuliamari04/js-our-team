@@ -9,3 +9,13 @@
     padding-right: 300px;
     line-height: 2;
 }
+.card{
+    transition: 1s;
+}
+.card:hover{
+    transform: scale(1.07);
+    box-shadow: 3px 3px 10px black;
+    overflow: hidden;
+    border-radius: 40px;
+    cursor: pointer;
+}
